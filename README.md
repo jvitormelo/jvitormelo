@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @jvitormelo
-- 👀 I’m interested in learning more about back-end and become a fullstack developer.
-- 🌱 I’m currently working with Vue and Typescript, but I’m also learning React, NestJs.
-- 💞️ I’m looking to collaborate on any typescript project.
-- 💬 To contact, just send me a message on linkedin..
+-  Hi, I’m @jvitormelo
+-  I’m interested in learning more about back-end and become a fullstack developer.
+-  I’m currently working with Vue and Typescript, but I’m also learning React, NestJs.
+-  I’m looking to collaborate on any typescript project.
+-  To contact, just send me a message on linkedin..
 
 
 <!---
