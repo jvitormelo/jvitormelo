@@ -1,6 +1,6 @@
 -  Hi, I’m João Vitor
--  I’m interested in learning more about back-end and become a fullstack developer.
--  I’m currently working with Vue/React with Typescript, but I’m also learning NestJs.
+-  I’m currently working with React/NextJs with Typescript.
+-  I’m interested in learning more about back-end.
 -  To contact, just send me a message on linkedin.
 
 <!---
