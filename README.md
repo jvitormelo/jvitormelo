@@ -4,7 +4,6 @@
 <br/>
 
 - 🤯 I build things and solve problems
-- 🦀 Maybe one day I will learn Rust
 
 <br/>
 
