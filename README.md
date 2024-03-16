@@ -1,8 +1,4 @@
 <h1 align="center">Hi 👋, I'm João Vitor</h1>
-
-<p align="center">A Web Dev focused on solving problems</p>
-
-<br/>
 <br/>
 
 <div>
