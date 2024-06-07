@@ -5,4 +5,4 @@
 
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: 50; position: fixed; top: 0; left: 0; height: 100vh; background-size: contain; width: 100vw; opacity: 0.9; background-image: url('https://raw.githubusercontent.com/jvitormelo/blue-archive-guess/main/girl.webp');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: 50; position: fixed; top: 0; left: 0; height: 100vh; background-size: contain; width: 100vw; opacity: 0.5; background-image: url('https://raw.githubusercontent.com/jvitormelo/blue-archive-guess/main/blue.png');]{x0000}$}
